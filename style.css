@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+}
+
+label, select, option, input {
+    color: yellow;
+    background-color: black;
+}
+
+input {
+    color: pink;
+}
+
